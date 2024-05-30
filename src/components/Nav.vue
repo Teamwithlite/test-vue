@@ -9,9 +9,6 @@ defineProps<{
     <nav className="flex bg-black py-6 px-6">
     <h1 class="green">{{ msg }}</h1>
     <h3 className="text-white">
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
     </h3>
     </nav>
   </div>
