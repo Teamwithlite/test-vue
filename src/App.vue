@@ -32,7 +32,7 @@ import {
               <CardDescription>I don't know</CardDescription>
             </CardHeader>
             <CardContent>
-              <p>Content</p>
+              <p>Test?</p>
             </CardContent>
             <CardFooter>
               <p>Card Footer</p>
